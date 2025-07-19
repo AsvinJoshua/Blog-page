@@ -1,0 +1,25 @@
+body{
+    background-color: lightgray;
+}
+.welcome,footer{
+    background-color:rgb(47, 95, 241);
+    color: white;
+    text-align: center;    
+}
+.link{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    background-color: rgb(0, 4, 4);
+}
+.main{
+    text-align: center;
+}
+.task2{
+    background-color: rgb(255, 255, 255);
+}
+.bg{
+    background-color: rgb(35, 26, 26);
+    color: white;
+}
